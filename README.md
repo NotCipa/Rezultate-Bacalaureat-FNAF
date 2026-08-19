@@ -7,7 +7,7 @@ Acest userscript îți prezintă media generală de la bacalaureat în stilul an
 2. Instalați userscript-ul
 3. Pe pagina https://bacalaureat.edu.ro/RapoarteCautare.aspx căutați candidatul după cod 
 4. Apăsați oriunde pentru a începe animația
-5. Enjoy :3
+5. Baftă! :3
 
 ATENȚIE! Persoanele care suferă de epilepsie NU ar trebui să folosească acest script!
 
