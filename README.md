@@ -11,7 +11,7 @@ Acest userscript îți prezintă media generală de la bacalaureat în stilul an
 
 ATENȚIE! Persoanele care suferă de epilepsie NU ar trebui să folosească acest script!
 
-#Licență
+# Licență
 Codul sursă al acestui proiect este licențiat conform Licenței Apache.
 
 Imaginile, GIF-urile, muzica, sunetele și celelalte materiale asociate cu FNAF sunt protejate prin drepturi de autor și NU sunt acoperite de Licența Apache.
