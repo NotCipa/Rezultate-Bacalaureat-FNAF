@@ -5,7 +5,7 @@ Acest userscript îți prezintă media generală de la bacalaureat în stilul an
 # Instrucțiuni de utilizare:
 
 1. Instalați extensia Tampermonkey pentru browser-ul vostru [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) [Chrome](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Instalați userscript-ul
+2. [Instalați userscript-ul](https://github.com/NotCipa/Rezultate-Bacalaureat-FNAF/raw/refs/heads/main/RezultateBACFNAF.user.js)
 3. Pe pagina https://bacalaureat.edu.ro/RapoarteCautare.aspx căutați candidatul după cod 
 4. Apăsați oriunde pentru a începe animația
 5. Baftă! :3
